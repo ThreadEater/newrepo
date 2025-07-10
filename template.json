@@ -1,0 +1,26 @@
+{
+	"_op_type": "index",
+	"_index": "newsgroup",
+
+	"event_cluster": "",
+
+	"category_cluster": [
+		{
+		"id": 0,
+		"name": ""
+		}
+	],
+
+	"title": "",
+	"author": [
+		{
+		"name": ""
+		}
+	],
+	"publication_date": "",
+	"source": "",
+	"url": "",
+	"bias": "",
+	
+	"content": ""
+}
